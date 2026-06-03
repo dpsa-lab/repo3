@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Zscaler SaaS Security API - GitHub DLP File Scan Sample
+Zscaler SaaS Security API - GitHub DLP File Scan Sample1
 ========================================================
 Demonstrates DLP detection of AWS Access Key IDs embedded in GitHub files.
 

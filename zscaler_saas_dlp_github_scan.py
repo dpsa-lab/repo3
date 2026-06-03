@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Zscaler SaaS Security API - GitHub DLP File Scan Sample
+Zscaler SaaS Security API - GitHub DLP File Scan Sample1
 ========================================================
 Uses the Zscaler SaaS Security API (formerly CASB) to trigger a DLP scan
 on a file hosted in a GitHub repository.
